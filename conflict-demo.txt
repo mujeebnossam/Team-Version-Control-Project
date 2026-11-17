@@ -1,1 +1,3 @@
-Project Status: Developed by Team A
+Project Status: Developed by Team A and Team B
+
+Conflict successfully resolved.
